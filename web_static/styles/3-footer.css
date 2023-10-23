@@ -1,0 +1,16 @@
+/**
+ * ===================
+ * Footer styles
+ * ==================
+*/
+
+footer{
+	background-color: #FFFFFF;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+	border-top: 1px solid #CCCCCC;
+        height: 60px;
+        font-weight: 700;
+        width: 100%;
+}
