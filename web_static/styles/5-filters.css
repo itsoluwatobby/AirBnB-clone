@@ -26,10 +26,10 @@
 	border-right: 1px solid #DDDDDD;
 }
 
-.filters > div h4{
+.filters div > h4{
 	margin-top: -14px;
 	white-space: nowrap;
-	font-weight: 600;
+	font-weight: 400;
 	font-size: 14px;
 }
 
