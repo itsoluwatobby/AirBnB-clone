@@ -10,11 +10,16 @@ body{
 	height: 100vh;
 	color: #484848;
 	font-size: 14px;
-	position: relative;
-	font-family: Circular "Helvetica Neue" Helvetica Arial sans-serif;
+	font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	position: relative
+	/*display: flex;*/
+	background-color: red;
+        /*flex-direction: column;
+        justify-content: space-between;*/
 }
 
 .container{
+	/*flex-grow: 1;*/
 	max-width: 1000px;
 	width: 80%;
 	margin: 30px auto;
